@@ -11,5 +11,6 @@ ctrl + shift + l : 단어선택하고 누르면 같은 단어 전체 변경 가�
 ```sh
 git add *
 git commit -m "코멘트 쓸내용 적기"
+git pull # remote repo에 바뀐내용이 있으면 변경사항을 local repo에 반영먼저 시킨다.
 git push
 ```
