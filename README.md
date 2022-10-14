@@ -1,10 +1,13 @@
+[참조](https://www.youtube.com/c/NeutronDev/search?query=vs%20code)
 # vscode_utils
 vscode 세팅에 필요한 여러가지들
 
 ## 파일탭 여러줄(multiple lines)
 File 메뉴 > Preferences > Settings(Ctrl+,) > wrap tabs
+
 ## 단축키
 ctrl + shift + l : 단어선택하고 누르면 같은 단어 전체 변경 가능
+ctrl + k, 좀쉬었다가 v : md 프리뷰
 
 # vscode에서 터미널에서 모든 변경사항 git remote에 반영
 ```sh
