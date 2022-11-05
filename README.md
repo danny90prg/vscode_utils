@@ -16,3 +16,6 @@ git commit -m "코멘트 쓸내용 적기"
 git pull # remote repo에 바뀐내용이 있으면 변경사항을 local repo에 반영먼저 시킨다.
 git push
 ```
+
+# 선택영역 공백제거 keybindgs.json에 추가
+[keybindings.json](./keybindings.json)

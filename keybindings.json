@@ -1,0 +1,8 @@
+{
+    "key": "shift+alt+y",            // or whatever keybinding you want
+    "command":  "editor.action.insertSnippet",
+    "args": {
+        "snippet": "${TM_SELECTED_TEXT/\\s//g}"  // replace spaces with nothing
+    },
+    "when": "editorTextFocus && editorHasSelection"
+},
